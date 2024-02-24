@@ -1,0 +1,30 @@
+img {
+    width: 60%;
+    float: right;
+    border: 50;
+    margin: 20%;
+    padding: 20;
+}
+
+main {
+    background-color: lavender;
+    width: 52%;
+    float: left;
+}
+
+aside {
+    float: right;
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+}
+
+div {
+    float: left;
+    width: 50%;
+}
+
+#grad1 {
+    height 100px;
+    background-image: linear-gradient(lightblue, blue, darkblue);
+}

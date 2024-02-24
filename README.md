@@ -2,7 +2,7 @@
 
 ## About
 
-This is a website about..
+This is a website about Pasta
 
 It will contain a variety of HTML tags and CSS rules.
 
@@ -19,14 +19,17 @@ The basic design will look like this low fidelity wireframe.
 
 ## Roadmap
 
-- [ ] Home Page
-- [ ] About Page
-- [ ] Menu Page
+- [x] Home Page
+- [x] About Page
+- [x] Menu Page
+- [x] added body to home page, aside and list
+- [x] added images
+- [x] updated css and html in about and gallery files and layout css
 
 
 ## Contact
 
-Author: 
+Author: Walter Sias walt.sias@gmail.com
 
 ## Acknowledgements
 
